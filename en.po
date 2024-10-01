@@ -1,0 +1,73 @@
+# LANGUAGE translation for FoxGame for the following files:
+# res://vigil_localization/Locale.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FoxGame\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DASH"
+msgstr "Dash"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DASH_DESCRIPTION"
+msgstr ""
+"Move quickly in the direction you are facing and carry a speed boost while "
+"running after"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DOUBLE_JUMP"
+msgstr "Double Jump"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DOUBLE_JUMP_DESCRIPTION"
+msgstr "Use a lily pad to gain an additional boost of height while in the air"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_SWIM"
+msgstr "Swim"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_SWIM_DESCRIPTION"
+msgstr "Dash in any direction while submerged in water"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_GROUND_POUND"
+msgstr "Ground Pound"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_GROUND_POUND_DESCRIPTION"
+msgstr ""
+"Accelerate downwards in your armadillo armor, protecting you from any nasty "
+"surfaces and crashing through fragile things"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_ROLL"
+msgstr "Roll"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_ROLL_DESCRIPTION"
+msgstr ""
+"Encase yourself in armadillo armor and roll at a rapid speed in the "
+"direction you are facing. Crashing into fragile things may cause them to "
+"break!"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_CLIMB"
+msgstr "Climb"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_CLIMB_DESCRIPTION"
+msgstr "Grip onto smooth walls with magical spider legs"

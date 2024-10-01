@@ -1,0 +1,60 @@
+# LANGUAGE translation for FoxGame for the following files:
+# res://vigil_localization/LocaleKeys.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FoxGame\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DASH"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DASH_DESCRIPTION"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DOUBLE_JUMP"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DOUBLE_JUMP_DESCRIPTION"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_SWIM"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_SWIM_DESCRIPTION"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_GROUND_POUND"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_GROUND_POUND_DESCRIPTION"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_ROLL"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_ROLL_DESCRIPTION"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_CLIMB"
+msgstr ""
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_CLIMB_DESCRIPTION"
+msgstr ""
