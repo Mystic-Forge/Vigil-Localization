@@ -1,0 +1,66 @@
+# LANGUAGE translation for FoxGame for the following files:
+# res://vigil_localization/LocaleKeys.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FoxGame\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DASH"
+msgstr "Vymrštění"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DASH_DESCRIPTION"
+msgstr "Rychlý pohyb směrem kterým se díváte s dodatečným rychlostním bonusem při běhu po vymrštění"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DOUBLE_JUMP"
+msgstr "Dvojitý skok"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_DOUBLE_JUMP_DESCRIPTION"
+msgstr "Využijte leknínový list pro získání dodatečné výšky skoku"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_SWIM"
+msgstr "Plavání"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_SWIM_DESCRIPTION"
+msgstr "Vymrštění jakýmkoliv směrem když jste ve vodě"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_GROUND_POUND"
+msgstr "Úder do země"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_GROUND_POUND_DESCRIPTION"
+msgstr "Akcelerace směrem dolů v brnění pásovce, což vás ochrání před jakýmikoliv ošklivými povrchy, a umožní vám prorazit křehké objekty"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_ROLL"
+msgstr "Valení"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_ROLL_DESCRIPTION"
+msgstr "Obrňte se brněním pásovce a valte se vysokou rychlostí směrem, kterým se díváte. Křehké objekty se mohou rozbít, pokud do nich narazíte!"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_CLIMB"
+msgstr "Šplhání"
+
+#: vigil_localization/LocaleKeys.gd
+msgid "ABILITY_CLIMB_DESCRIPTION"
+msgstr "Udržte se na hladkých stěnách pomocí magických pavoučích nohou"
